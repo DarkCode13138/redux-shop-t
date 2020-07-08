@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/redux-shop-t/static/css/main.aff75ce4.chunk.css",
+    "main.js": "/redux-shop-t/static/js/main.de8afcb4.chunk.js",
+    "main.js.map": "/redux-shop-t/static/js/main.de8afcb4.chunk.js.map",
+    "runtime-main.js": "/redux-shop-t/static/js/runtime-main.018ae412.js",
+    "runtime-main.js.map": "/redux-shop-t/static/js/runtime-main.018ae412.js.map",
+    "static/css/2.388fec08.chunk.css": "/redux-shop-t/static/css/2.388fec08.chunk.css",
+    "static/js/2.c780f2d8.chunk.js": "/redux-shop-t/static/js/2.c780f2d8.chunk.js",
+    "static/js/2.c780f2d8.chunk.js.map": "/redux-shop-t/static/js/2.c780f2d8.chunk.js.map",
+    "index.html": "/redux-shop-t/index.html",
+    "precache-manifest.970e44c2a96b6fbe8ad4f96dee0d8929.js": "/redux-shop-t/precache-manifest.970e44c2a96b6fbe8ad4f96dee0d8929.js",
+    "service-worker.js": "/redux-shop-t/service-worker.js",
+    "static/css/2.388fec08.chunk.css.map": "/redux-shop-t/static/css/2.388fec08.chunk.css.map",
+    "static/css/main.aff75ce4.chunk.css.map": "/redux-shop-t/static/css/main.aff75ce4.chunk.css.map",
+    "static/js/2.c780f2d8.chunk.js.LICENSE.txt": "/redux-shop-t/static/js/2.c780f2d8.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/redux-shop-t/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018ae412.js",
+    "static/css/2.388fec08.chunk.css",
+    "static/js/2.c780f2d8.chunk.js",
+    "static/css/main.aff75ce4.chunk.css",
+    "static/js/main.de8afcb4.chunk.js"
+  ]
+}
